@@ -1,4 +1,4 @@
-import React from 'react'
+import './chart.scss'
 
 export const Chart = () => {
   return (
