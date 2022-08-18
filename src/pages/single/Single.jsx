@@ -29,7 +29,7 @@ export const Single = () => {
                 </div>
                 <div className="detailItem">
                   <span className="itemKey">Address:</span>
-                  <span className="itemValue">Elton St. 234 Garden Yd. NewYork</span>
+                  <span className="itemValue">Elton St. 234 Garden Yd. NewYork</span>  
                 </div>
                 <div className="detailItem">
                   <span className="itemKey">Country:</span>
