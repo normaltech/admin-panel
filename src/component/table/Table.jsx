@@ -80,7 +80,7 @@ export const List = () => {
             <TableRow
               key={row.id}
             >
-              <TableCell>{row.id}</TableCell>
+              <TableCell className="tableCell">{row.id}</TableCell>
               <TableCell className="tableCell">
                 <div className="cellWrapper">
                   <img src={row.img} alt="" className="image" />
